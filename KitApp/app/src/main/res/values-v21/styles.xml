@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#053656</item>
+        <item name="colorAccent">#053656</item>
+
+        <item name="android:navigationBarColor">#053656</item>
+    </style>
+
+    <!-- SplashScreen theme. -->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <style name="AddActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2D7F91</item>
+        <item name="colorPrimaryDark">#2D7F91</item>
+        <item name="colorAccent">#2D7F91</item>
+
+        <item name="android:navigationBarColor">#2D7F91</item>
+    </style>
+</resources>
