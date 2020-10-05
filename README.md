@@ -1,5 +1,6 @@
 # KitApp
  An application for saving book informations which you read
+Also it added by using git
  
  App on Google Play : https://play.google.com/store/apps/details?id=com.onursercanyilmaz.kitapp
  
